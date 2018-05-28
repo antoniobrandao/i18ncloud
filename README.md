@@ -6,8 +6,6 @@ This NPM module is used to download your [i18n.cloud](http://i18n.cloud) transla
 
 ## Install
 
-With [npm](http://npmjs.org) do:
-
 ```bash
 $ yarn add i18ncloud
 $ or

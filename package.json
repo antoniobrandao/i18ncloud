@@ -1,6 +1,6 @@
 {
   "name": "i18ncloud",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "The i18n.cloud CLI tool",
   "main": "download.js",
   "keywords": [
