@@ -1,7 +1,5 @@
 # i18ncloud
 
-The [i18n.cloud](http://i18n.cloud) dev tool.
-
 [i18n.cloud](http://i18n.cloud) allows you to easily create translations for software projects in a slick interface.
 
 This NPM module is used to download your [i18n.cloud](http://i18n.cloud) translations into your project's folder.
