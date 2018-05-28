@@ -1,0 +1,21 @@
+{
+  "name": "i18ncloud",
+  "version": "1.0.8",
+  "description": "The i18n.cloud CLI tool",
+  "main": "download.js",
+  "keywords": [
+    "i18n",
+    "cloud",
+    "tool"
+  ],
+  "license": "MIT",
+  "author": "antoniobrandao <antoniobrandaodesign@gmail.com> (github.com/antoniobrandao)",
+  "homepage": "http://i18n.cloud",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antoniobrandao/i18ncloud"
+  },
+  "bugs": {
+    "url": "https://github.com/antoniobrandao/i18ncloud/issues"
+  }
+}
